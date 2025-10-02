@@ -1,4 +1,4 @@
-# AI_Vibecoding
+
 # 📚 Mini E-Learning Platform
 
 A simple, responsive e-learning prototype built with **HTML**, **CSS**, and **JavaScript**. It features a homepage listing available courses, a detailed course view with lessons, and a button to mark each course as completed. Designed for clarity, modularity, and ease of extension.
