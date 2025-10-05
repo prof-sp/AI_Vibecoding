@@ -76,7 +76,7 @@ Feel free to fork and extend the platform. Suggestions and pull requests are wel
 MIT License. Use freely, modify responsibly.
 
 Deployment
-Live at: https://aielearningvibe.netlify.app/
+Live at: https://aielearningvibe.netlify.app
 
 ✨ Author
 Built by Suleiman — strategic builder, ethical entrepreneur, and advocate for sustainable tech. Let’s empower learning, one modular app at a time.
