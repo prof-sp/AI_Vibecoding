@@ -77,7 +77,6 @@ MIT License. Use freely, modify responsibly.
 
 Deployment
 You can view a live demo of this project hosted on Netlify at the following link:
-[View Live Demo on Netlify]
 (https://aielearningvibe.netlify.app/)
 
 ✨ Author
